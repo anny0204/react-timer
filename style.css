@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#point_mount {
+    width: 960px;
+    margin: 8px auto;
+    padding: 6px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+.sec {
+    color: blue;
+    font-weight: bold;
+}
+
+button {
+    width: 120px;
+    font-weight: 400;
+    margin: 4px;
+    padding: 8px 18px;
+    color: #fff;
+    background-color: gray;
+    border-radius: 3px;
+}
+
+button:hover {
+    cursor: pointer;
+}
